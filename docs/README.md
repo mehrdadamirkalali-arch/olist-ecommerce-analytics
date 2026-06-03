@@ -33,6 +33,7 @@ The raw CSV files are not included in this repository. To run the project, downl
 
 ## Project Structure
 
+```text
 olist-ecommerce-analytics/
 │
 ├── README.md
